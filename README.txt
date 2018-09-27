@@ -1,1 +1,1 @@
-This is a readme file for stamp & snow website
+This is a readme file Stamp & Snow home page
